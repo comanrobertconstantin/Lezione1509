@@ -11,7 +11,7 @@ namespace AppLezione1509
         static void Main(string[] args)
         {
             int a = 55555;
-            Console.WriteLine($"il valore di a è {a}");
+            Console.WriteLine($"Il valore di a è {a}");
             short s = (short)a;
             Console.WriteLine($"il valore di s è {s}");
             Console.ReadLine();
