@@ -13,7 +13,7 @@ namespace AppLezione1509
             int a = 55555;
             Console.WriteLine($"Il valore di a è {a}");
             short s = (short)a;
-            Console.WriteLine($"il valore di s è {s}");
+            Console.WriteLine($"Il valore di s è {s}");
             Console.ReadLine();
         }
     }
